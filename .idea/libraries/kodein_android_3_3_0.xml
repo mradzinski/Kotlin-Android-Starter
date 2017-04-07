@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kodein-android-3.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/12b8f2b2679072aa4a10e574c06a75d2046628fd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/12b8f2b2679072aa4a10e574c06a75d2046628fd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kodein/kodein-android/3.3.0/1de261700a66ef10ed4bd57c1b2c986388803720/kodein-android-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
